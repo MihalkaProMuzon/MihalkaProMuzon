@@ -92,4 +92,4 @@ This experience shapes how I approach ML today — as part of a system, not in i
 ## 📫 Contact
 
 * GitHub: https://github.com/MihalkaProMuzon
-* LinkedIn / Telegram: @mihalkapm
+* Telegram: @mihalkapm
