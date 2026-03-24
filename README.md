@@ -76,16 +76,17 @@ Research on robustness of NLP models under input corruption.
 
 ---
 
-🧩 Engineering Background
+ ## 🧩 Engineering Background
 
-Before ML, I worked on complex client-server systems in game development:
+Before ML, I built modular client-server systems in game development using Lua (MTA engine):
 
-Built a custom UI framework with animation system and shader integration
-Designed client-server architecture and gameplay systems
-Implemented backend logic, data handling, and interaction flows
-Optimized systems for real-time performance and low-end hardware
+* Designed a resource-based architecture with clear separation of client and server logic
+* Built reusable systems (UI framework, vehicles, inventory, banking, organizations)
+* Developed shared services (database access, utilities, API layers between modules)
+* Implemented interaction between independent modules via defined interfaces
+* Focused on performance and smooth real-time experience, even on low-end hardware
 
-This experience shapes how I approach ML today — as part of a system, not in isolation.
+This experience shaped my approach to ML — I treat models as part of a larger system, not standalone components.
 
 ---
 
