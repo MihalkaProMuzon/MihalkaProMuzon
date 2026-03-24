@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mikhail
 
-ML Engineer focused on building **end-to-end AI systems**, not just models.
+ML Engineer focused on building **end-to-end AI systems**
 
 I work at the intersection of machine learning, backend, and system design — turning ML ideas into working products.
 
@@ -76,13 +76,14 @@ Research on robustness of NLP models under input corruption.
 
 ---
 
-## 🧩 Engineering Background
+🧩 Engineering Background
 
-Before ML, I worked on complex systems in game development:
+Before ML, I worked on complex client-server systems in game development:
 
-* Built a custom UI framework with animation system
-* Designed performance-critical client-side systems
-* Optimized for real-time interaction and low-end hardware
+Built a custom UI framework with animation system and shader integration
+Designed client-server architecture and gameplay systems
+Implemented backend logic, data handling, and interaction flows
+Optimized systems for real-time performance and low-end hardware
 
 This experience shapes how I approach ML today — as part of a system, not in isolation.
 
